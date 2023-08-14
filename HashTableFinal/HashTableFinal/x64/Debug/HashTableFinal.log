@@ -1,0 +1,8 @@
+﻿  CSVparser.cpp
+H:\6.   C++\HashTableFinal\HashTableFinal\CSVparser.cpp(116,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+H:\6.   C++\HashTableFinal\HashTableFinal\CSVparser.cpp(121,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+H:\6.   C++\HashTableFinal\HashTableFinal\CSVparser.cpp(203,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  HashTable.cpp
+  Generating Code...
+  LINK : H:\6.   C++\HashTableFinal\x64\Debug\HashTableFinal.exe not found or not built by the last incremental link; performing full link
+  HashTableFinal.vcxproj -> H:\6.   C++\HashTableFinal\x64\Debug\HashTableFinal.exe
