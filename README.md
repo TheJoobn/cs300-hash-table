@@ -2,8 +2,6 @@
 
 Code Reflection week 4
 
-Jaden Bryon Knutson
-
 -------------------------------------------------------------------------------------------------------------
 
 A brief explanation of the code and its purpose:
